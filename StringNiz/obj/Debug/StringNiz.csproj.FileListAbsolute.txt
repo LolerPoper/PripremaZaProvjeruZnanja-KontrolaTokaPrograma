@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\StringNiz\bin\Debug\StringNiz.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\StringNiz\bin\Debug\StringNiz.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\StringNiz\bin\Debug\StringNiz.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\StringNiz\obj\Debug\StringNiz.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\StringNiz\obj\Debug\StringNiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\StringNiz\obj\Debug\StringNiz.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\StringNiz\obj\Debug\StringNiz.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\StringNiz\obj\Debug\StringNiz.pdb
