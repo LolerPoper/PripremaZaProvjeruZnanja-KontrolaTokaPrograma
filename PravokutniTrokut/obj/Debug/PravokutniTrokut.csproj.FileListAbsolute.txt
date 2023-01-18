@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\PravokutniTrokut\bin\Debug\PravokutniTrokut.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\PravokutniTrokut\bin\Debug\PravokutniTrokut.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\PravokutniTrokut\bin\Debug\PravokutniTrokut.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\PravokutniTrokut\obj\Debug\PravokutniTrokut.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PravokutniTrokut\obj\Debug\PravokutniTrokut.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PravokutniTrokut\obj\Debug\PravokutniTrokut.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PravokutniTrokut\obj\Debug\PravokutniTrokut.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\PravokutniTrokut\obj\Debug\PravokutniTrokut.pdb
