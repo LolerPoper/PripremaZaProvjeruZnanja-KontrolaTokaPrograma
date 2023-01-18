@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\DijeljivBroj\bin\Debug\DijeljivBroj.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\DijeljivBroj\bin\Debug\DijeljivBroj.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\DijeljivBroj\bin\Debug\DijeljivBroj.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\DijeljivBroj\obj\Debug\DijeljivBroj.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\DijeljivBroj\obj\Debug\DijeljivBroj.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\DijeljivBroj\obj\Debug\DijeljivBroj.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\DijeljivBroj\obj\Debug\DijeljivBroj.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\DijeljivBroj\obj\Debug\DijeljivBroj.pdb
